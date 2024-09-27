@@ -1,11 +1,33 @@
-- 👋 Hi, I’m ABHISHEK KUMAR
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on real life python projects.
-- 📫 How to reach me - my whatsapp info is +91-9304522661,
-                       email: kumarabh57@gmail.com.
+# 👋 Hi, I’m Abhishek Kumar
 
-<!---
-kumarabh57/kumarabh57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+I’m passionate about **Data Science** and continuously learning and applying new skills in real-world scenarios. I have hands-on experience in Python and various data analysis tools. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to **Data Science, Machine Learning, and Python Development**.
+
+### Tech Stack
+- **Languages:** Python, SQL, R
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Web Scraping:** BeautifulSoup, Selenium
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, PostgreSQL
+- **Other Tools:** Excel, Jupyter, Streamlit
+
+### Projects
+1. **COVID-19 India Analysis**  
+   *Scraped, cleaned, and analyzed COVID-19 data using Python, Pandas, and Seaborn. Created visualizations in Power BI for an interactive dashboard.*
+   - [GitHub Repository](#) | [Demo](#)
+
+2. **FIFA World Cup Data Analysis (1986-2022)**  
+   *Analyzed data from the last 10 FIFA World Cups using Pandas, Numpy, and visualized insights using Matplotlib and Seaborn. Created an interactive dashboard using Power BI.*  
+   - [GitHub Repository](#) | [Demo](#)
+
+3. **EDA on Different Datasets**  
+   *Performed exploratory data analysis on multiple datasets to extract meaningful insights and identify trends using Pandas, Matplotlib, and Seaborn.*
+   - [GitHub Repository](#) | [Demo](#)
+
+### Let's Connect
+- **Email:** kumarabh57@gmail.com
+- **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-23ba581b7/)
+- **GitHub:** [kumarabh57](https://github.com/kumarabh57)
+
+---
