@@ -4,12 +4,12 @@
 I’m passionate about **Data Science** and continuously learning and applying new skills in real-world scenarios. I have hands-on experience in Python and various data analysis tools. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to **Data Science, Machine Learning, and Python Development**.
 
 ### Tech Stack
-- **Languages:** Python, SQL, R
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Languages:** Python, SQL,
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 - **Web Scraping:** BeautifulSoup, Selenium
 - **Version Control:** Git, GitHub
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, MongoDB
 - **Other Tools:** Excel, Jupyter, Streamlit
 
 ### Projects
